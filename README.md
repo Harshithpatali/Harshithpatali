@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshith Devaraja
+#  Hi, I'm Harshith Devaraja
 
 🎓 M.Sc. Applied Mathematics & Computing | Data Scientist & ML Engineer  
 🚀 Building AI/ML solutions with Python, TensorFlow, GCP, Docker & Kubernetes  
