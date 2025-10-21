@@ -58,9 +58,7 @@ End-to-end churn prediction system featuring **feature engineering**, **model in
 
 ## 📫 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/-Harshith%20Devaraja-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/harshith-devaraja-087ba0228
-
-/)
+[![LinkedIn](https://img.shields.io/badge/-Harshith%20Devaraja-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-devaraja-087ba0228)
 [![Gmail](https://img.shields.io/badge/-harshikollur302%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:harshikollur302@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Harshithpatali-181717?logo=github&logoColor=white)](https://github.com/Harshithpatali)
 
