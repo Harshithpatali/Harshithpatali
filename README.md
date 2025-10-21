@@ -29,7 +29,7 @@ AI-powered healthcare system predicting risks for **heart disease**, **diabetes*
 
 ---
 
-### 📈 [**Stock Price Forecasting Model (LSTM + MLflow + GCP)**](https://github.com/Harshithpatali/Stock-prediction-model)
+### 📈 [**Stock Price Forecasting Model (LSTM + MLflow + GCP)**](https://github.com/Harshithpatali/sensex-prediction)
 End-to-end **financial forecasting pipeline** combining **LSTM and XGBoost**, with data ingestion, MLflow tracking, and **GCP deployment** via Docker & Kubernetes.
 
 ---
