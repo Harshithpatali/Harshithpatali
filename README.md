@@ -42,7 +42,7 @@
 - Predicted **next-day stock prices** with **RMSE: 12.4**, **R²: 0.92** on validation data.  
 - Implemented **MLflow tracking** for experiments and model versioning.  
 - Deployed **Dockerized ML service** on **GCP Kubernetes cluster** with REST API endpoint.  
-- Automated **data ingestion and preprocessing** for **1-year historical NIFTY50 data**.  
+- Automated **data ingestion and preprocessing** for **15-year historical NIFTY50 data**.  
 
 ---
 
