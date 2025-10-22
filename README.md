@@ -96,9 +96,13 @@
 
 ## 📫 **Connect with Me**
 
+
+
 [![LinkedIn](https://img.shields.io/badge/-Harshith%20Devaraja-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-devaraja-087ba0228)  
 [![Gmail](https://img.shields.io/badge/-harshikollur302%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:harshikollur302@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-Harshithpatali-181717?logo=github&logoColor=white)](https://github.com/Harshithpatali)
+[![GitHub](https://img.shields.io/badge/-Harshithpatali-181717?logo=github&logoColor=white)](https://github.com/Harshithpatali)  
+[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://share.streamlit.io/user/harshithpatali)
+
 
 ---
 
