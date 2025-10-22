@@ -82,8 +82,8 @@
 - ![IBM](https://img.shields.io/badge/-IBM-1F70C1?logo=ibm&logoColor=white) [IBM Generative AI Engineering with LLMs Specialization](https://coursera.org/share/f0ab2a153db668d8c6e1c19b678bfc2f)  
 - ![IBM](https://img.shields.io/badge/-IBM-1F70C1?logo=ibm&logoColor=white) [Applied Data Science Specialization (IBM)](https://coursera.org/share/dce559647fcbfa553f169425d7684998)  
 - ![IBM](https://img.shields.io/badge/-IBM-1F70C1?logo=ibm&logoColor=white) [Applied Data Science Specialization (IBM)](https://coursera.org/share/e25c3eee6b6e18dc5e756e466f28d579)  
-- ![Michigan](https://img.shields.io/badge/-University%20of%20Michigan-00274C?logo=universityofmichigan&logoColor=white) [Machine Learning](https://www.coursera.org/)  
-- ![Duke](https://img.shields.io/badge/-Duke%20University-003087?logo=dukeuniversity&logoColor=white) [Python Programming](https://www.coursera.org/)  
+- ![Michigan](https://img.shields.io/badge/-University%20of%20Michigan-00274C?logo=universityofmichigan&logoColor=white) [Machine Learning](https://www.coursera.org/)  (Coursera)
+- ![Duke](https://img.shields.io/badge/-Duke%20University-003087?logo=dukeuniversity&logoColor=white) [Python Programming](https://www.coursera.org/) (Coursera) 
 
 ---
 
