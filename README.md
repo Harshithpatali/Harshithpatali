@@ -35,7 +35,7 @@
 
 ---
 
-# 📘 Math RAG Chatbot
+# 📘[ Math RAG Chatbot](https://github.com/Harshithpatali/math-rag-chatbot)
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]()
 [![LangChain](https://img.shields.io/badge/-LangChain-00C7B7?logo=chainlink&logoColor=white)]()
@@ -45,7 +45,7 @@
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)]()
 
 ## 🚀 Overview
-[**Math RAG Chatbot**](https://github.com/Harshithpatali/math-rag-chatbot)
+[**Math RAG Chatbot**]
 is an AI-powered application designed to solve and explain **Linear Algebra problems** using **Retrieval-Augmented Generation (RAG)**.  
 It combines **LangChain**, **FAISS**, and **FLAN-T5** to provide **context-aware** and **step-by-step mathematical reasoning**.
 
