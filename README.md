@@ -35,6 +35,57 @@
 
 ---
 
+# 📘 Math RAG Chatbot
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]()
+[![LangChain](https://img.shields.io/badge/-LangChain-00C7B7?logo=chainlink&logoColor=white)]()
+[![FAISS](https://img.shields.io/badge/-FAISS-0099E5?logo=facebook&logoColor=white)]()
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FECC00?logo=huggingface&logoColor=black)]()
+[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)]()
+[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)]()
+
+## 🚀 Overview
+**Math RAG Chatbot** is an AI-powered application designed to solve and explain **Linear Algebra problems** using **Retrieval-Augmented Generation (RAG)**.  
+It combines **LangChain**, **FAISS**, and **FLAN-T5** to provide **context-aware** and **step-by-step mathematical reasoning**.
+
+---
+
+## 🧩 Features
+- 🔍 **RAG-based system** using `SentenceTransformer` embeddings (`all-MiniLM-L6-v2`) for semantic retrieval.  
+- 🧠 **FLAN-T5 model** for intelligent reasoning and explanation generation.  
+- 💬 **Streamlit UI** for real-time chat-based interaction.  
+- ☁️ **Deployed on Google Cloud Run** via Docker for scalable, low-latency access.  
+- 📚 Sources are dynamically displayed to enhance transparency and explainability.  
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Python  
+- **Frameworks:** LangChain, Streamlit  
+- **Vector DB:** FAISS  
+- **LLM:** FLAN-T5 (via Hugging Face Transformers)  
+- **Cloud Platform:** Google Cloud Run  
+- **Containerization:** Docker  
+
+---
+
+## 📊 Project Highlights
+- Implemented **RAG pipeline** integrating text chunking, embedding storage, and contextual response generation.  
+- Developed **fully interactive chat UI** that allows users to query, review source context, and follow reasoning steps.  
+- Achieved **high interpretability and accuracy** for mathematical problem-solving tasks.  
+
+---
+
+## 🌐 Live Links
+- 🔗 **Live Demo:** [https://math-rag-chatbot-314201399185.europe-west1.run.app](https://math-rag-chatbot-314201399185.europe-west1.run.app)  
+- 💻 **GitHub Repository:** [https://github.com/Harshithpatali/math-rag-chatbot](https://github.com/Harshithpatali/math-rag-chatbot)  
+
+---
+
+## 📸 Preview
+*(Add a screenshot of your app UI here if available — e.g., `![App Screenshot](./screenshot.png)`)*
+
+
 ### 📈 [**Stock Price Forecasting Model (LSTM + MLflow + GCP)**](https://github.com/Harshithpatali/sensex-prediction)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF9900?logo=xgboost&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 
