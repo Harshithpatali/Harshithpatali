@@ -28,24 +28,40 @@ My strongest interest is at the intersection of **experimentation, causal infere
 
 ---
 
+## 📊 My Data Science Portfolio — At a Glance
+
+```mermaid
+pie showData
+    title Portfolio Focus
+    "Data Science & Analytics" : 30
+    "Statistics & Causal Inference" : 25
+    "Machine Learning" : 20
+    "Applied AI / LLMs" : 15
+    "Production & MLOps" : 10
+```
+
+```mermaid
+graph LR
+    A["📥 Data"] --> B["🧹 SQL / Features"]
+    B --> C["📐 Statistics"]
+    C --> D["🧪 Experimentation"]
+    D --> E["🤖 ML / Causal ML"]
+    E --> F["🔍 Evaluation"]
+    F --> G["💰 Business Impact"]
+    G --> H["🚀 API / Dashboard"]
+```
+
+> **My portfolio is built around a complete decision loop:** data → statistical reasoning → modeling → evaluation → business decision → deployment.
+
+---
+
 ## 🚀 Featured Portfolio
 
 > **A curated portfolio of 15 projects.** Older and experimental repositories remain available on my GitHub; the curated index makes the strongest work easier to review.
 
 👉 **[View the complete Selected Portfolio →](portfolio/)**
 
-```mermaid
-graph LR
-    A["Raw Data"] --> B["SQL / Data Engineering"]
-    B --> C["Statistics & Experimentation"]
-    C --> D["Feature Engineering"]
-    D --> E["ML / Causal Models"]
-    E --> F["Evaluation & Explainability"]
-    F --> G["Business Decision"]
-    G --> H["API / Dashboard / Cloud"]
-```
-
-### 🥇 Brazilian E-Commerce Data Science
+### 🛒 Brazilian E-Commerce Data Science
 
 **SQL-first marketplace analytics + leakage-safe churn ML + experimentation + deployment.**
 
@@ -59,9 +75,7 @@ graph LR
 - MLflow experiment tracking
 - Streamlit + Plotly decision dashboard
 
----
-
-### 🥈 Retail Demand & Inventory Optimization
+### 📦 Retail Demand & Inventory Optimization
 
 **Demand forecasting connected directly to cost-aware inventory decisions.**
 
@@ -77,9 +91,7 @@ graph LR
 - Held-out cost and service-level evaluation
 - FastAPI + Streamlit deployment
 
----
-
-### 🥉 Causal Experimentation Platform
+### 🧪 Causal Experimentation Platform
 
 **A complete experimentation pipeline from randomization checks to business ROI.**
 
@@ -103,8 +115,6 @@ Incremental Conversions → Revenue → Profit → ROI
 
 Criteo Uplift · SRM · SMD · Bootstrap CI · Meta-learners · LightGBM · FastAPI · Streamlit
 
----
-
 ### 🎯 Causal Uplift Marketing Optimization
 
 **Customer-level treatment targeting using randomized email experiments.**
@@ -124,7 +134,7 @@ Criteo Uplift · SRM · SMD · Bootstrap CI · Meta-learners · LightGBM · Fast
 
 ## 🤖 Applied AI & LLM Systems
 
-### LLM Reliability & Evaluation Platform
+### 🧠 LLM Reliability & Evaluation Platform
 
 [Repository](https://github.com/Harshithpatali/llm-evaluation-platform) · [Live Dashboard](https://llm-evaluation-platform-q.streamlit.app/) · [API](https://llm-evaluation-platform-1.onrender.com/docs)
 
@@ -132,29 +142,23 @@ Criteo Uplift · SRM · SMD · Bootstrap CI · Meta-learners · LightGBM · Fast
 
 Evaluates LLM responses asynchronously and monitors reliability using **KS tests, Wasserstein distance, telemetry, latency and evaluation-score distributions**.
 
-### Financial Intelligence Agent
+### 💹 Financial Intelligence Agent
 
 [Repository](https://github.com/Harshithpatali/financial-intelligence-agent) · [Live Demo](https://financial-intelligence-agent-g.streamlit.app/)
 
 Annual reports → document processing → BGE embeddings → ChromaDB → semantic retrieval → Groq → source-grounded answers → financial dashboard.
 
-### LLM Judge — E-Commerce
-
-[Repository](https://github.com/Harshithpatali/llm-judge-ecommerce)
-
-Evaluation workflows for LLM-powered e-commerce applications, extending the portfolio from model building into **measurement and reliability**.
-
-### Math RAG Chatbot
-
-[Repository](https://github.com/Harshithpatali/math-rag-chatbot) · [Live Demo](https://math-rag-chatbot-314201399185.europe-west1.run.app/)
-
-FAISS + `all-MiniLM-L6-v2` + FLAN-T5 + LangChain + Streamlit for retrieval-augmented Linear Algebra explanations.
-
-### Indian Legal Copilot
+### ⚖️ Indian Legal Copilot
 
 [Repository](https://github.com/Harshithpatali/Indian-Legal-Copilot-RAG-Powered-Legal-AI-Assistant)
 
 Domain-specific RAG and applied NLP for legal information workflows.
+
+### 📚 Math RAG Chatbot
+
+[Repository](https://github.com/Harshithpatali/math-rag-chatbot) · [Live Demo](https://math-rag-chatbot-314201399185.europe-west1.run.app/)
+
+FAISS + `all-MiniLM-L6-v2` + FLAN-T5 + LangChain + Streamlit for retrieval-augmented Linear Algebra explanations.
 
 ---
 
@@ -165,24 +169,70 @@ Domain-specific RAG and applied NLP for legal information workflows.
 | [Quant Trading Research](https://github.com/Harshithpatali/quant-trading-research) | Quantitative research and financial modeling |
 | [FinRisk Engine](https://github.com/Harshithpatali/FinRisk-Engine) | Financial risk analytics / ML |
 | [Bank Marketing GNN](https://github.com/Harshithpatali/Bank-Marketing-GNN) | Graph machine learning |
-| [Haar ECG](https://github.com/Harshithpatali/Haar_ECG) | Haar wavelets + CNN/SVM + ECG classification |
-| [Employee Attrition Risk Intelligence](https://github.com/Harshithpatali/employee-attrition-risk-intelligence) | Predictive analytics and risk modeling |
+| [❤️ Haar ECG](https://github.com/Harshithpatali/Haar_ECG) | Haar wavelets + CNN/SVM + ECG classification |
+| [👥 Employee Attrition Risk Intelligence](https://github.com/Harshithpatali/employee-attrition-risk-intelligence) | Predictive analytics and risk modeling |
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-**Languages & Data**  
-`Python` `SQL` `PostgreSQL` `Pandas` `NumPy` `SciPy`
+### 🐍 Languages & Data
 
-**Statistics & ML**  
-`scikit-learn` `XGBoost` `LightGBM` `MLflow` `SHAP` `Causal Inference` `A/B Testing` `Uplift Modeling`
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+<img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mysql" height="48" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=numpy" height="48" alt="NumPy" />
+<img src="https://skillicons.dev/icons?i=pandas" height="48" alt="Pandas" />
+</p>
 
-**AI / NLP**  
-`RAG` `LangChain` `FAISS` `ChromaDB` `Sentence Transformers` `LLM Evaluation`
+`🐍 Python` · `🗄️ SQL` · `🐘 PostgreSQL` · `🐼 Pandas` · `🔢 NumPy` · `📐 SciPy`
 
-**Engineering & Deployment**  
-`FastAPI` `Streamlit` `Docker` `Git` `GCP` `Render` `Supabase` `Redis` `Celery`
+### 📐 Statistics & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn" height="48" alt="scikit-learn" />
+<img src="https://skillicons.dev/icons?i=xgboost" height="48" alt="XGBoost" />
+</p>
+
+`📊 scikit-learn` · `🚀 XGBoost` · `⚡ LightGBM` · `🧪 MLflow` · `🔎 SHAP`  
+`🎲 Causal Inference` · `🧫 A/B Testing` · `🎯 Uplift Modeling` · `📈 Forecasting`
+
+### 🧠 AI / NLP
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" />
+</p>
+
+`🔗 RAG` · `🦜 LangChain` · `⚡ FAISS` · `🗂️ ChromaDB` · `🧬 Sentence Transformers` · `⚖️ LLM Evaluation`
+
+### 🚀 Engineering & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=streamlit" height="48" alt="Streamlit" />
+<img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=git,github" height="48" alt="Git and GitHub" />
+<img src="https://skillicons.dev/icons?i=gcp" height="48" alt="Google Cloud" />
+<img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" />
+</p>
+
+`⚡ FastAPI` · `🎈 Streamlit` · `🐳 Docker` · `🔧 Git` · `☁️ GCP` · `🌐 Render` · `🗃️ Supabase` · `🔴 Redis` · `⚙️ Celery`
+
+---
+
+## 📊 Skills → Project Coverage
+
+```mermaid
+xychart-beta
+    title "Portfolio Technical Coverage"
+    x-axis [SQL, Statistics, ML, Causal, AI, MLOps]
+    y-axis "Projects" 0 --> 15
+    bar [8, 7, 12, 5, 6, 7]
+```
+
+> **Visual summary:** the portfolio is intentionally strongest in **Machine Learning, SQL/Data Science, Statistics, Causal Inference, and production AI** rather than being a collection of unrelated demo projects.
 
 ---
 
