@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/profile-banner.svg" alt="Harshith Devaraja — Data Science, Machine Learning and Applied AI" width="100%"/>
+
+</div>
+
+<div align="center">
+
 # Harshith Devaraja
 
 ### Data Scientist · Machine Learning Engineer · Applied AI
