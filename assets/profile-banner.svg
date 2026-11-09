@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Harshith Devaraja — Data Science, Machine Learning and Applied AI</title>
+<desc id="desc">A dark navy technical banner with mathematical formulas, neural network connections, wavelet signal lines and areas of focus.</desc>
+<defs>
+ <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#36d6ee"/><stop offset=".55" stop-color="#638cff"/><stop offset="1" stop-color="#b27aff"/></linearGradient>
+ <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#20c9e8" stop-opacity=".7"/><stop offset=".55" stop-color="#477bff" stop-opacity=".6"/><stop offset="1" stop-color="#bd67f5" stop-opacity=".7"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#173b61" stop-opacity=".65"/><stop offset="1" stop-color="#08111f" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#25405e" stroke-opacity=".22" stroke-width="1"/></pattern>
+</defs>
+<rect width="1280" height="400" fill="#08111f"/><rect width="1280" height="400" fill="url(#grid)"/>
+<ellipse cx="840" cy="130" rx="470" ry="250" fill="url(#glow)"/>
+<path d="M0 292 C110 240 160 337 275 288 S420 220 520 280 S690 342 800 277 S960 230 1080 282 S1200 324 1280 266" fill="none" stroke="url(#wave)" stroke-width="2" opacity=".75"/>
+<path d="M0 308 C120 265 175 350 290 306 S440 250 540 302 S710 350 820 300 S990 258 1100 306 S1210 340 1280 292" fill="none" stroke="url(#wave)" stroke-width="1" opacity=".45"/>
+<path d="M0 324 C120 290 180 360 300 326 S450 278 560 324 S720 360 840 326 S1010 280 1120 322 S1220 350 1280 318" fill="none" stroke="url(#wave)" stroke-width="1" opacity=".3"/>
+<path d="M42 72V226" stroke="url(#accent)" stroke-width="4"/>
+<text x="70" y="125" fill="#f4f7fb" font-family="Georgia,serif" font-size="58" letter-spacing="-1">Harshith Devaraja</text>
+<text x="72" y="164" fill="#d5e3f3" font-family="Arial,sans-serif" font-size="20">DATA SCIENTIST  ·  MACHINE LEARNING ENGINEER  ·  APPLIED AI</text>
+<text x="72" y="207" fill="#aebed1" font-family="Arial,sans-serif" font-size="17">Turning data, algorithms and experimentation into useful products.</text>
+<path d="M72 229H150" stroke="url(#accent)" stroke-width="4"/>
+<g fill="#93a9c4" font-family="Georgia,serif" font-style="italic" font-size="17" opacity=".9">
+ <text x="700" y="78">P(A|B) = P(B|A) P(A) / P(B)</text>
+ <text x="700" y="112">L(θ) = − 1/n Σ log p(yᵢ | xᵢ, θ)</text>
+ <text x="700" y="146">X = U Σ Vᵀ</text>
+</g>
+<g stroke="url(#accent)" stroke-width="1.4" fill="#132944">
+ <path d="M930 70L1020 55M930 70L1020 110M930 70L1020 165M930 125L1020 55M930 125L1020 110M930 125L1020 165M930 180L1020 55M930 180L1020 110M930 180L1020 165M1020 55L1110 110M1020 110L1110 110M1020 165L1110 110"/>
+ <g fill="#143c58"><circle cx="930" cy="70" r="8"/><circle cx="930" cy="125" r="8"/><circle cx="930" cy="180" r="8"/></g>
+ <g fill="#243d70"><circle cx="1020" cy="55" r="9"/><circle cx="1020" cy="110" r="9"/><circle cx="1020" cy="165" r="9"/></g>
+ <circle cx="1110" cy="110" r="10" fill="#45336d"/>
+</g>
+<g transform="translate(1140 50)">
+ <rect width="105" height="70" rx="5" fill="#111c35" stroke="#34476d"/>
+ <path d="M6 52 Q16 50 22 25 T39 44 T57 21 T75 45 T98 18" fill="none" stroke="url(#accent)" stroke-width="2.5"/>
+ <text x="0" y="94" fill="#dce7f5" font-family="Arial,sans-serif" font-size="13">WAVELET × ATTENTION</text>
+ <text x="0" y="112" fill="#8fa6c2" font-family="Arial,sans-serif" font-size="11">Multi-scale signal learning</text>
+</g>
+<path d="M40 350H1240" stroke="#31435d" stroke-width="1"/>
+<g fill="#dce6f3" font-family="Arial,sans-serif" font-size="14" text-anchor="middle">
+ <text x="130" y="379">Machine Learning</text><text x="330" y="379">Graph Intelligence</text><text x="545" y="379">Causal &amp; Experimental AI</text><text x="790" y="379">Signal &amp; Wavelets</text><text x="1000" y="379">MLOps &amp; Deployment</text><text x="1170" y="379">Analytics</text>
+</g>
+<g stroke="url(#accent)" stroke-width="2" fill="none">
+ <path d="M130 356v-10h7v10m5 0v-19h7v19m5 0v-27h7v27"/>
+ <path d="M316 356l12-20 12 20z"/><circle cx="328" cy="336" r="3"/><circle cx="316" cy="356" r="3"/><circle cx="340" cy="356" r="3"/>
+ <path d="M535 332l-8 24h26l-8-24m-10 0h10m-15 24h20"/>
+ <path d="M765 345h8l5-12 7 25 8-31 8 25 6-12h8"/>
+ <path d="M985 346c0-8 12-10 16-3 7-11 22-5 22 4 9 0 9 12-1 12h-27c-8 0-10-8-10-13z"/>
+ <ellipse cx="1170" cy="338" rx="10" ry="4"/><path d="M1160 338v19c0 6 20 6 20 0v-19m-20 9c0 6 20 6 20 0"/>
+</g>
+</svg>
