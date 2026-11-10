@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Harshith Devaraja — Data Science, Machine Learning and Applied AI" width="100%"/>
+<img src="assets/profile-banner.svg" alt="Harshith Devaraja — Data Science, Statistics and Decision Science" width="100%"/>
 
 </div>
 
