@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
-<title id="title">Harshith Devaraja — Data Science, Machine Learning and Applied AI</title>
-<desc id="desc">A dark navy technical banner with mathematical formulas, neural network connections, wavelet signal lines and areas of focus.</desc>
+<title id="title">Harshith Devaraja — Data Science, Statistics and Decision Science</title>
+<desc id="desc">A dark navy technical banner with statistical notation, data visualizations, network connections and decision-science themes.</desc>
 <defs>
  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#36d6ee"/><stop offset=".55" stop-color="#638cff"/><stop offset="1" stop-color="#b27aff"/></linearGradient>
  <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#20c9e8" stop-opacity=".7"/><stop offset=".55" stop-color="#477bff" stop-opacity=".6"/><stop offset="1" stop-color="#bd67f5" stop-opacity=".7"/></linearGradient>
@@ -14,8 +14,8 @@
 <path d="M0 324 C120 290 180 360 300 326 S450 278 560 324 S720 360 840 326 S1010 280 1120 322 S1220 350 1280 318" fill="none" stroke="url(#wave)" stroke-width="1" opacity=".3"/>
 <path d="M42 72V226" stroke="url(#accent)" stroke-width="4"/>
 <text x="70" y="125" fill="#f4f7fb" font-family="Georgia,serif" font-size="58" letter-spacing="-1">Harshith Devaraja</text>
-<text x="72" y="164" fill="#d5e3f3" font-family="Arial,sans-serif" font-size="20">DATA SCIENTIST  ·  MACHINE LEARNING ENGINEER  ·  APPLIED AI</text>
-<text x="72" y="207" fill="#aebed1" font-family="Arial,sans-serif" font-size="17">Turning data, algorithms and experimentation into useful products.</text>
+<text x="72" y="164" fill="#d5e3f3" font-family="Arial,sans-serif" font-size="20">DATA SCIENTIST  ·  STATISTICAL MODELLING  ·  DECISION SCIENCE</text>
+<text x="72" y="207" fill="#aebed1" font-family="Arial,sans-serif" font-size="17">Using statistics, experiments and machine learning to support better decisions.</text>
 <path d="M72 229H150" stroke="url(#accent)" stroke-width="4"/>
 <g fill="#93a9c4" font-family="Georgia,serif" font-style="italic" font-size="17" opacity=".9">
  <text x="700" y="78">P(A|B) = P(B|A) P(A) / P(B)</text>
@@ -31,12 +31,12 @@
 <g transform="translate(1140 50)">
  <rect width="105" height="70" rx="5" fill="#111c35" stroke="#34476d"/>
  <path d="M6 52 Q16 50 22 25 T39 44 T57 21 T75 45 T98 18" fill="none" stroke="url(#accent)" stroke-width="2.5"/>
- <text x="0" y="94" fill="#dce7f5" font-family="Arial,sans-serif" font-size="13">WAVELET × ATTENTION</text>
- <text x="0" y="112" fill="#8fa6c2" font-family="Arial,sans-serif" font-size="11">Multi-scale signal learning</text>
+ <text x="0" y="94" fill="#dce7f5" font-family="Arial,sans-serif" font-size="13">TIME SERIES & UNCERTAINTY</text>
+ <text x="0" y="112" fill="#8fa6c2" font-family="Arial,sans-serif" font-size="11">Forecasts, residuals, intervals</text>
 </g>
 <path d="M40 350H1240" stroke="#31435d" stroke-width="1"/>
 <g fill="#dce6f3" font-family="Arial,sans-serif" font-size="14" text-anchor="middle">
- <text x="130" y="379">Machine Learning</text><text x="330" y="379">Graph Intelligence</text><text x="545" y="379">Causal &amp; Experimental AI</text><text x="790" y="379">Signal &amp; Wavelets</text><text x="1000" y="379">MLOps &amp; Deployment</text><text x="1170" y="379">Analytics</text>
+ <text x="130" y="379">Statistical Inference</text><text x="330" y="379">Customer Analytics</text><text x="545" y="379">Causal Inference</text><text x="790" y="379">Forecasting</text><text x="1000" y="379">ML Evaluation</text><text x="1170" y="379">Decision Science</text>
 </g>
 <g stroke="url(#accent)" stroke-width="2" fill="none">
  <path d="M130 356v-10h7v10m5 0v-19h7v19m5 0v-27h7v27"/>
