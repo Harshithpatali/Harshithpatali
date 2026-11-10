@@ -8,12 +8,12 @@
 
 # Harshith Devaraja
 
-### Data Scientist · Machine Learning Engineer · Applied AI
+### Data Scientist · Statistical Modelling · Decision Science
 
-**Turning data into evidence, models into products, and research into practical systems.**
+**Using statistics, experimentation and machine learning to support better decisions.**
 
 <p>
-  <a href="https://harshith-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://harshithpatali.github.io/harshith-portfolio/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/harshith-devaraja-087ba0228">LinkedIn</a> ·
   <a href="mailto:harshikollur302@gmail.com">Email</a> ·
   <a href="https://github.com/Harshithpatali">GitHub</a>
@@ -29,11 +29,11 @@
 
 ## About
 
-I'm an M.Sc. Applied Mathematics & Computing graduate interested in building data products that solve meaningful analytical problems. My work sits at the intersection of **statistics, machine learning, experimentation, and software engineering**.
+I'm an M.Sc. Applied Mathematics & Computing graduate focused on **data science, statistical inference, experimentation and customer analytics**. I use Python and SQL to frame analytical questions, establish baselines, validate models and translate results into decision-ready evidence.
 
 I enjoy the full process: framing a question, understanding the data, establishing a baseline, validating a model, interpreting the result, and delivering something people can actually use.
 
-Current interests include **causal inference, graph machine learning, reliable LLM systems, signal processing, and wavelet-based attention mechanisms for Transformers**.
+My strongest areas of work are **statistical analysis, causal inference, customer intelligence, time-series forecasting and predictive modelling**. I also maintain selected applied-AI and signal-processing projects as supporting technical interests.
 
 ## What I work on
 
@@ -41,13 +41,13 @@ Current interests include **causal inference, graph machine learning, reliable L
 <tr>
 <td width="33%" valign="top">
 
-**Data science & statistics**
+**Statistics & decision science**
 
-- SQL analytics and data modeling
-- A/B testing and experiment design
-- Causal inference and uplift
+- Statistical inference and hypothesis testing
+- A/B testing and experimental design
+- Causal inference and uplift modelling
 - Cohort and survival analysis
-- Bayesian methods
+- SQL analytics and customer metrics
 
 </td>
 <td width="33%" valign="top">
@@ -63,13 +63,13 @@ Current interests include **causal inference, graph machine learning, reliable L
 </td>
 <td width="33%" valign="top">
 
-**Applied AI & engineering**
+**Analytics & delivery**
 
-- RAG and LLM evaluation
+- Python analytics and visualization
+- Reproducible modelling workflows
 - FastAPI and Streamlit applications
-- Data pipelines and orchestration
+- MLflow and model evaluation
 - Docker and CI/CD
-- Cloud deployment and monitoring
 
 </td>
 </tr>
@@ -116,21 +116,22 @@ The tools I use across analytics, modeling, AI development, and deployment.
 
 ## Featured projects
 
-A curated selection of work across decision science, machine learning, analytics, and applied AI. Project READMEs contain implementation details, evaluation methodology, and known limitations.
+Four flagship projects across statistical decision science, customer analytics, causal modelling and forecasting. Each README documents methodology, evaluation evidence and limitations.
 
-### 01 · Causal Experimentation Intelligence Platform
+### 01 · Causal Uplift Modelling for Email Marketing
 
-**Experiment quality → causal estimates → uplift-based targeting decisions**
+**Randomized experiment → heterogeneous treatment effects → targeting policy evaluation**
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Harshithpatali/causal_experimentation_platform)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Harshithpatali/causal-uplift-marketing-optimization)
 
-- SRM checks, randomization diagnostics, and standardized mean differences.
-- A/B testing, confidence intervals, statistical power, and MDE.
-- ATE/ATT estimation and S-, T-, and X-learner approaches.
-- Qini/AUUC evaluation and business-policy simulation.
-- FastAPI backend and Streamlit dashboard.
+- 64,000-customer Hillstrom randomized email experiment.
+- ATE analysis and T-Learner / class-transformation uplift models.
+- Held-out Qini, AUUC and uplift-at-depth evaluation.
+- Best reported AUUC 0.002054 and Qini 0.004129.
 
-**Stack:** Python · Pandas · SciPy · LightGBM · CausalML · FastAPI · Streamlit
+**Stack:** Python · Pandas · LightGBM · Causal inference · Statistical evaluation
+
+<sub>Policy estimates are evaluation-sample results, not guaranteed future campaign outcomes; the dataset does not include campaign costs for net-profit measurement.</sub>
 
 ### 02 · Customer Intelligence & Graph Anomaly Research
 
@@ -258,7 +259,7 @@ Manipal Academy of Higher Education
 
 ## Let's connect
 
-I'm open to opportunities in **Data Science, Machine Learning Engineering, and Applied AI**, and collaborations involving experimentation, graph learning, signal processing, and reliable AI systems.
+I'm open to **Data Scientist, Decision Science, Experimentation Analyst and Customer Analytics** opportunities, especially roles where statistical reasoning and machine learning support real business decisions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshith-devaraja-087ba0228"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
