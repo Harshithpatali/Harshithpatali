@@ -263,7 +263,7 @@ I'm open to **Data Scientist, Decision Science, Experimentation Analyst and Cust
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshith-devaraja-087ba0228"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://harshith-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-263238?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://harshithpatali.github.io/harshith-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore-263238?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:harshikollur302@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
